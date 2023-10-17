@@ -57,5 +57,6 @@ To achieve these goals, you have referred to the following resources:
 
 **Note**: This README is a brief overview of the project. For detailed instructions, contributions, and usage guidelines, please refer to the project's documentation and source code.
 
+**Note**: Recommendation System Implementation Part is Under Process [ We regret to inform you that the functionality you requested is currently not available. We apologize for any inconvenience this may cause. ]
 Feel free to explore the code and contribute to the project. We welcome your involvement and feedback! 🚀
 
